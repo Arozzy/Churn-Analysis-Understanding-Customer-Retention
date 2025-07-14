@@ -1,4 +1,5 @@
 **Project Overview**
+
 This churn analysis explores customer retention patterns to identify key drivers of churn and inform retention strategies.
 
 **Objective**
